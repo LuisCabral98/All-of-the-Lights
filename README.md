@@ -46,15 +46,19 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 The only resource I used was my previous knowledge and experience in HTML and CSS basics.
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
+ 
 This most difficult aspect of this project was having to become familiar with JavaScript to some extent in order to understand the code that I was being asked to write and how it would function. Thankfully, JavaScript is an object-oriented programming language much like C++ so when it came to functions and arrays, although the syntax varies slightly I was able to catch on quicker. JavaScript is a language that I attempted to learn in the past however I had hated it, with this project I was able to better understand JS and its implementations in web development. I overcame this struggle and disliking of JS by simply just throwing myself into it and focusing on understanding the code that was being given to me, that way I can become familiar with its overarching concepts and apply it elsewhere.
 
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
+ 
 Is JS going to continue being imperative in web development especially with advancements in HTML, Python, SQL, and C++? If this project focused on the front-end of web development, what goes on in the backend? Can web development evolve beyond simply designing web pages for corporations and governments? How can web development contribute to the United Nations Sustainable Development Goals (SDGs)?
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
+ 
 If I were to spend more time on this code, it would be to tinker with the audio synthesizer, peel back the console to see the backend of how a web-based IDE works, and review the code I typed and see if I could make my code more efficient and compact. I would also go back and add more comments in order to provide a clear, concise description of what each function does so that whoever reads it can look at the comments and instantly know what function does what.
 
 
