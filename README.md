@@ -44,9 +44,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-[All of The Lights Losing scenario](https://user-images.githubusercontent.com/101224196/158706249-d0a08935-8b3b-4d5e-9291-a6801b98f02b.gif)
-[All of the Lights Randomized Rounds](https://user-images.githubusercontent.com/101224196/158706529-6f76feb1-606d-4af5-9890-31e7861b4bd1.gif)
-[All of the Lights Winning Scenario](https://user-images.githubusercontent.com/101224196/158706795-8bcba2d7-7d1f-4229-82e6-9cb749b49300.gif)
+All of The Lights Losing scenario: https://user-images.githubusercontent.com/101224196/158706249-d0a08935-8b3b-4d5e-9291-a6801b98f02b.gif
+All of the Lights Randomized Rounds: https://user-images.githubusercontent.com/101224196/158706529-6f76feb1-606d-4af5-9890-31e7861b4bd1.gif
+All of the Lights Winning Scenario: https://user-images.githubusercontent.com/101224196/158706795-8bcba2d7-7d1f-4229-82e6-9cb749b49300.gif
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
